@@ -1,0 +1,15 @@
+#main {
+     max-width: 800px;
+    margin: auto;
+}
+.pet {
+
+}
+img{
+    cursor: pointer;
+    border: dotted;
+    border-color: #fa0465;
+    border-radius: 35px;
+    box-shadow: 20px 20px #f7f7f8;
+
+}
